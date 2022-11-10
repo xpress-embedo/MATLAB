@@ -1,0 +1,3 @@
+[submodule "VotingGUI"]
+	path = VotingGUI
+	url = git@github.com:xpress-embedo/Voting_GUI_MATLAB.git
